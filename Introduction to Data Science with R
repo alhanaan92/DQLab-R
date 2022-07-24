@@ -1,0 +1,15 @@
+❤️ Variabel dalam R ❤️ [https://academy.dqlab.id/main/livecode/111/211/1060] 🔗
+a = 5
+print(a)
+
+❤️ Praktek: Penggunaan Comment ❤️ [https://academy.dqlab.id/main/livecode/111/212/1064] 🔗
+10 + 7 #Ini adalah baris komentar
+
+❤️ Praktek: Penggunaan Vector - Bagian Satu ❤️ [https://academy.dqlab.id/main/livecode/111/212/1066] 🔗
+c(3, 10, 15)
+
+❤️ Praktek: Penggunaan Vector - Bagian Dua ❤️ [https://academy.dqlab.id/main/livecode/111/212/1067] 🔗
+c(1:5)
+
+❤️ Menggunakan Fungsi Summary ❤️ [https://academy.dqlab.id/main/livecode/111/212/1070] 🔗
+summary(c(1:5))
